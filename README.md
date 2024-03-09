@@ -1,7 +1,7 @@
 <div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomas-oliveira03&count_private=true&theme=midnight-purple&show_icons=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=tomas-oliveira03&count_private=true&theme=vision-friendly-dark&show_icons=true"
     height="180rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-oliveira03&layout=compact&theme=midnight-purple"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-oliveira03&layout=compact&theme=vision-friendly-dark"
     height="180rem"/>
 </div>
   
