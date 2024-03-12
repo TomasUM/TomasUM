@@ -57,8 +57,9 @@
 </a> 
 
 <a href="https://pugjs.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-plain.svg" alt="Pug" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-plain.svg" alt="Pug" width="40" height="40"/> 
 </a>
+
 
 <a href="https://nodejs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
@@ -85,7 +86,7 @@
 </a> 
 
 <a href="https://www.djangoproject.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> 
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank"> 
