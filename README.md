@@ -1,11 +1,3 @@
-<div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomas-oliveira03&count_private=true&theme=vision-friendly-dark&show_icons=true"
-    height="180rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-oliveira03&layout=compact&theme=vision-friendly-dark"
-    height="180rem"/>
-</div>
-  
-<hr style="height:30 pt; visibility:hidden;" />
 
 ## Programming Languages
 <a href="https://www.python.org/" target="_blank"> 
