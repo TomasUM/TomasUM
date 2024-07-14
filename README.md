@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Tomás Oliveira</h1>
+<h1 align="center">Hey there! I'm Tomás Oliveira</h1>
 <h3 align="center"> Software Engineering graduate @ Universidade do Minho</h3>
 
 
